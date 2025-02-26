@@ -33,7 +33,3 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 Agradeço ao Hashtag Treinamento pela excelente experiência de aprendizado no curso de Python.
 ```
-
-Esse modelo de **README** é bem básico, mas cobre os pontos essenciais, como a descrição do repositório, estrutura, instruções de uso e contribuição, e também uma seção de licença e agradecimentos.
-
-Você pode personalizar de acordo com suas necessidades, adicionar links para os cursos e personalizar ainda mais com detalhes do conteúdo de cada módulo ou projeto que você for fazer.
